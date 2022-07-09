@@ -1,2 +1,49 @@
 
  
+h1 {
+  text-align: center;
+  color: #66BFBF;
+  font-family: "Comic Sans MS", cursive, sns-serif;
+}
+
+h2 {
+  text-align: center;
+  color: RGB(5, 7, 20);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+
+}
+h3 {
+  text-align: center;
+  color:RGB(5, 7, 20) ;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: a
+  width: 25%;
+}
+
+frame {
+  display: groove;
+  margin-left: 5px;
+  border-color: gold;
+  padding: 20px 20px 20px 20px;
+  width: 50%;
+}
+p {
+    font-size: 20;
+  text-align: center;
+  color: white;
+}
+center {
+  text-align: auto;
+}
+
+
+.Aditya {
+   color:coral; 
+}
